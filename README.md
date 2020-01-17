@@ -6,7 +6,7 @@ Some people are worried about gaining weight and do not want to eat fast food bu
 
 * Developed in only front end side with dummy data. Once refresh the page all contents will reset to initial position.
 
-**URL:**
+**Blog URL:**
 
  https://jaejunmi-final.surge.sh
 
